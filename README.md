@@ -31,4 +31,4 @@ After not being satisified with every fitness app I have tried, I decided to cre
 
 ## Demo
 
-- Will be available once project is complete...
+- Will be available soon, just a few changes left to make
