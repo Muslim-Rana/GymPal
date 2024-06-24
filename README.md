@@ -28,6 +28,7 @@ After not being satisified with every fitness app I have tried, I decided to cre
 - Mongoose
 - Atlas
 - Postman
+- Date-FNS
 
 ## Demo
 
